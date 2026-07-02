@@ -89,7 +89,7 @@ Want a quick win? Do these on **your own test repo** — all four are legit and 
 3. **🦈 Pull Shark + 🎲 YOLO** → create a branch, edit a file, open a PR, and **merge it yourself** (no reviewer). Do it twice for Pull Shark.
 4. **👯 Pair Extraordinaire** → add a `Co-authored-by:` line to a commit, open a PR, merge it.
 
-⏳ Badges can take a few minutes to a few hours to appear — be patient!
+⏳ Badges can take a few minutes to a few hours to appear >> be patient!
 
 ---
 
