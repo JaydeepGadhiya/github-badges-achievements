@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Pull Shark
+description: How to earn the Pull Shark badge by getting pull requests merged.
+---
+
 <p align="center"><img src="../assets/badges/pull-shark.png" width="140" alt="Pull Shark"/></p>
 
 # 🦈 Pull Shark

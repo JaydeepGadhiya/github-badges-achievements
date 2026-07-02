@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Starstruck
+description: How to earn the Starstruck badge with a repository that gets 16+ stars.
+---
+
 <p align="center"><img src="../assets/badges/starstruck.png" width="140" alt="Starstruck"/></p>
 
 # 🌟 Starstruck

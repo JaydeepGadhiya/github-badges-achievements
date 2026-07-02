@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Pair Extraordinaire
+description: How to earn the Pair Extraordinaire badge with a co-authored commit in a merged PR.
+---
+
 <p align="center"><img src="../assets/badges/pair-extraordinaire.png" width="140" alt="Pair Extraordinaire"/></p>
 
 # 👯 Pair Extraordinaire

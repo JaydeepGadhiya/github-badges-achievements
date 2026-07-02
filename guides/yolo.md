@@ -1,3 +1,9 @@
+---
+layout: guide
+title: YOLO
+description: How to earn the YOLO badge by merging a pull request without a review.
+---
+
 <p align="center"><img src="../assets/badges/yolo.png" width="140" alt="YOLO"/></p>
 
 # 🎲 YOLO

@@ -52,7 +52,7 @@ Achievements are little badges that appear in a **"Achievements"** panel in the 
 | <img src="assets/badges/public-sponsor.png" width="52"/> | **Public Sponsor** | Sponsor a developer publicly | 🟡 Medium | ~5 min ($) |
 | <img src="assets/badges/starstruck.png" width="52"/> | **Starstruck** | Create a repo that earns 16+ stars | 🔴 Hard | days–weeks |
 
-📂 **Full step-by-step guide for each badge → the [`guides/`](guides/README.md) folder.**
+📂 **Full step-by-step guide for each badge → the [`guides/`](guides/) folder.**
 
 - ⚡ [**Get Your First Achievement** (start here!)](guides/first-achievement.md)
 - 🦈 [Pull Shark](guides/pull-shark.md)

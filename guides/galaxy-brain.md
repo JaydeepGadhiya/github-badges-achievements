@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Galaxy Brain
+description: How to earn the Galaxy Brain badge by getting Discussion answers accepted.
+---
+
 <p align="center"><img src="../assets/badges/galaxy-brain.png" width="140" alt="Galaxy Brain"/></p>
 
 # 🧠 Galaxy Brain
