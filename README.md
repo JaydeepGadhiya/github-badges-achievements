@@ -22,7 +22,7 @@
 
 New to this? Get the **Quickdraw ⚡** badge right now, using this repo:
 
-> **[👉 Open an issue and close it within 5 minutes](../../issues/new/choose)** — that's it!
+> **[👉 Open an issue and close it within 5 minutes](https://github.com/JaydeepGadhiya/github-badges-achievements/issues/new/choose)** — that's it!
 > Full walkthrough: **[Get Your First Achievement](guides/first-achievement.md)** ⚡
 
 ```
@@ -52,7 +52,7 @@ Achievements are little badges that appear in a **"Achievements"** panel in the 
 | <img src="assets/badges/public-sponsor.png" width="52"/> | **Public Sponsor** | Sponsor a developer publicly | 🟡 Medium | ~5 min ($) |
 | <img src="assets/badges/starstruck.png" width="52"/> | **Starstruck** | Create a repo that earns 16+ stars | 🔴 Hard | days–weeks |
 
-📂 **Full step-by-step guide for each badge → the [`guides/`](guides) folder.**
+📂 **Full step-by-step guide for each badge → the [`guides/`](guides/README.md) folder.**
 
 - ⚡ [**Get Your First Achievement** (start here!)](guides/first-achievement.md)
 - 🦈 [Pull Shark](guides/pull-shark.md)
