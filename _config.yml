@@ -1,0 +1,7 @@
+# GitHub Pages site configuration
+title: GitHub Achievements Guide
+description: A step-by-step guide to unlocking every badge on your GitHub profile.
+theme: jekyll-theme-cayman
+
+# Show a "View on GitHub" button in the theme header
+show_downloads: false

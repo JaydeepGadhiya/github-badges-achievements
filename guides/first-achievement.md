@@ -15,7 +15,7 @@
 
 1. ⭐ **Star this repo** (optional, but it helps others find it!).
 
-2. 🐞 Go to the **[Issues tab](../../issues)** of this repo → click **New issue**.
+2. 🐞 Go to the **[Issues tab](https://github.com/JaydeepGadhiya/github-badges-achievements/issues)** of this repo → click **New issue**.
    - If you see a template called **"⚡ My First Achievement"**, pick it. Otherwise choose *"Open a blank issue."*
 
 3. 📝 Give it a title like:
