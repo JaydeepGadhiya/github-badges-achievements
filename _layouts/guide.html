@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="guide-page">
+  <div class="guide-container reveal">
+    {% unless page.hide_back %}
+    <p class="guide-back"><a href="{{ '/guides/' | relative_url }}">← All guides</a></p>
+    {% endunless %}
+    <article class="markdown-body">
+      {{ content }}
+    </article>
+    {% unless page.hide_back %}
+    <nav class="guide-foot-nav" aria-label="Guide navigation">
+      <a class="btn btn-ghost" href="{{ '/guides/' | relative_url }}">← Back to all guides</a>
+      <a class="btn btn-primary" href="{{ '/' | relative_url }}#badges">Home</a>
+    </nav>
+    {% endunless %}
+  </div>
+</div>

@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Quickdraw
+description: How to earn the Quickdraw badge by closing an issue or PR within 5 minutes.
+---
+
 <p align="center"><img src="../assets/badges/quickdraw.png" width="140" alt="Quickdraw"/></p>
 
 # ⚡ Quickdraw

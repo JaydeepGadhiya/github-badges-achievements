@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Get Your First Achievement
+description: The fastest way to earn your first GitHub badge — Quickdraw in about 10 seconds.
+---
+
 <p align="center"><img src="../assets/badges/quickdraw.png" width="140" alt="Quickdraw"/></p>
 
 # ⚡ Get Your FIRST Achievement — right here, in 10 seconds!

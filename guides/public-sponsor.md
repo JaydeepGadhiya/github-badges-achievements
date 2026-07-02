@@ -1,3 +1,9 @@
+---
+layout: guide
+title: Public Sponsor
+description: How to earn the Public Sponsor badge by sponsoring a developer publicly.
+---
+
 <p align="center"><img src="../assets/badges/public-sponsor.png" width="140" alt="Public Sponsor"/></p>
 
 # 💖 Public Sponsor

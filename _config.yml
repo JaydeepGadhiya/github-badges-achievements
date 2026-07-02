@@ -1,7 +1,30 @@
 # GitHub Pages site configuration
 title: GitHub Achievements Guide
 description: A step-by-step guide to unlocking every badge on your GitHub profile.
-theme: jekyll-theme-cayman
 
-# Show a "View on GitHub" button in the theme header
-show_downloads: false
+# Custom dark "arcade" theme — no external Jekyll theme (we ship our own layouts + CSS).
+# Project site lives at /github-badges-achievements, so baseurl must match the repo name.
+baseurl: "/github-badges-achievements"
+
+# Markdown engine
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Apply our layouts by default so content files need minimal front matter.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: "guides"
+    values:
+      layout: guide
+
+# Keep build output lean.
+exclude:
+  - CONTRIBUTING.md
+  - README.md
+  - LICENSE
+  - .gitignore

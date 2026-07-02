@@ -1,3 +1,10 @@
+---
+layout: guide
+title: Badge Guides
+description: Step-by-step walkthroughs for every GitHub achievement badge.
+hide_back: true
+---
+
 # 🏆 Badge Guides
 
 Step-by-step walkthroughs for every GitHub achievement.
@@ -16,4 +23,4 @@ Step-by-step walkthroughs for every GitHub achievement.
 
 ---
 
-← Back to the [main guide](../README.md)
+← Back to the [main guide]({{ '/' | relative_url }})
